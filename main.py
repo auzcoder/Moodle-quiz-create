@@ -200,7 +200,7 @@ def main(docx_path, output_txt_path):
 
 
 # docx fayl manzilini va chiqadigan txt fayl manzilini kiriting
-docx_path = '/Moodle-quiz-create/test2.docx'  # DOCX fayl manzili
-output_txt_path = '/Moodle-quiz-create/output.txt'  # TXT fayl manzili
+docx_path = '/Users/auzcoder/Desktop/testuchun/pythonProject/Moodle-quiz-create/test2.docx'  # DOCX fayl manzili
+output_txt_path = '/Users/auzcoder/Desktop/testuchun/pythonProject/Moodle-quiz-create/output.txt'  # TXT fayl manzili
 
 main(docx_path, output_txt_path)
