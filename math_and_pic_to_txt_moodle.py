@@ -71,3 +71,21 @@ docx_path = '/Users/auzcoder/Desktop/testuchun/pythonProject/Moodle-quiz-create/
 output_txt_path = '/Users/auzcoder/Desktop/testuchun/pythonProject/Moodle-quiz-create/output.txt'  # TXT fayl manzili
 
 main(docx_path, output_txt_path)
+
+data = [
+    {
+        'name': "MA'lumotnoma",
+        'icon': "https://xjvdjgnkgrhf.com/idifdi.svg",
+        'url': "{% url 'home' %}"
+    },
+    {
+        'name': "MA'lumotnoma",
+        'icon': "https://xjvdjgnkgrhf.com/idifdi.svg",
+        'url': "{% url 'home' %}"
+    },
+    {
+        'name': "MA'lumotnoma",
+        'icon': "https://xjvdjgnkgrhf.com/idifdi.svg",
+        'url': "{% url 'home' %}"
+    },
+]
