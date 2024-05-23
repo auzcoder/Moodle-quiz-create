@@ -2,7 +2,7 @@
 
 # v4 Tartib raqam qo'shildi va uni olib tashlab tayyorlaydi
 import pandas as pd
-from docx import Document
+# from docx import Document
 
 
 def read_docx_table(docx_path):
